@@ -1,0 +1,1955 @@
+[
+  {
+    "id": 406,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi, how are you feeling today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, I'm feeling pretty low. I've been struggling with self-esteem and have trouble connecting with others due to fear of rejection."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like this is really weighing on you and causing a lot of stress."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it is."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that it takes a lot of courage to reach out for help like this."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about your experiences with self-esteem and how it's been impacting your relationships?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, I've always struggled with feeling like I'm not good enough. It makes it hard for me to be vulnerable and open up to others because I fear they won't like me or accept me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you imagine what it would be like to let go of some of those fears and allow yourself to be more vulnerable with others?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'm not sure. It's scary to even think about."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing that might be useful is to remind yourself that everyone experiences rejection, and it doesn't necessarily reflect on your worth as a person."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good point."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling overwhelmed by these feelings of inadequacy and fear."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I am."
+        },
+        {
+          "speaker": "supporter",
+          "content": "What are some specific situations in which you've struggled with self-esteem or fear of rejection?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Usually when I'm meeting new people or trying to make friends. I worry that they won't like me or that I'll say something stupid."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it seems like you're struggling with self-esteem and fear of rejection when it comes to meeting new people or making friends. Does that sound right?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing you might try is practicing mindfulness meditation to help calm your mind and reduce anxiety."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've heard of that. Do you think it could help me?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "I think it's worth a try, and I believe in your ability to try new things and make progress."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I've struggled with similar feelings of self-doubt and fear of rejection in the past, and I know how hard it can be to deal with."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Really? It's helpful to hear that I'm not alone."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How have these feelings impacted your life? Are there things you've avoided or missed out on because of them?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, definitely. I've missed out on opportunities to make friends and connect with others, and I've avoided situations where I might face rejection."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's important to remember that you have the power to change this pattern. It might take time and effort, but you can work towards feeling more confident and comfortable in social situations."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I hope so."
+        }
+      ],
+      "strategy": "Reflection of Feelings",
+      "response": "It sounds like you're feeling hopeful but also maybe a bit unsure about how to move forward."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels pretty low, struggling with self-esteem, and has fear of rejection.",
+      "cause_emotion": "Because the seeker says they are feeling pretty low and struggle with self-esteem, they find it difficult to connect with others due to a fear of rejection.",
+      "emotion_stimuli": "The seeker's struggles with self-esteem and fear of rejection are causing stress and impacting their ability to connect with others.",
+      "individual_appraisal": "The seeker thinks they are not good enough, which makes it hard for them to be vulnerable and open up to others. They fear they won't be liked or accepted, leading to avoidance of social situations and missed opportunities for making friends and connections.",
+      "recognized_strategy": "Reflection of Feelings",
+      "strategy_reason": "To acknowledge and validate the seeker's emotions of feeling pretty low, struggling with self-esteem, and fear of rejection, the supporter can use the strategy of \"Reflection of Feelings\" to provide empathy and understanding. By reflecting the seeker's feelings, the supporter helps the seeker feel heard and validated, which can help create a safe and supportive environment for further exploration and discussion of their experiences. This strategy also addresses the emotion stimulus of the seeker's struggles with self-esteem and fear of rejection causing stress and impacting their ability to connect with others."
+    }
+  },
+  {
+    "id": 252,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hello, what brings you to me today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Hi, I recently experienced a trauma and I am having difficulty coping and moving forward."
+        },
+        {
+          "speaker": "supporter",
+          "content": "First off, I want to commend you for reaching out for help. That takes a lot of courage and strength. Can you tell me a bit more about the trauma you experienced?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, it was a car accident that was really scary and left me feeling shaken and anxious."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So you were in a car accident that left you feeling really shaken and anxious."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you tried talking to anyone else about how you're feeling?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really, no. I feel like no one truly understands what I'm going through."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you feel alone in your experience and like no one else can really relate."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that what you're feeling is valid and very normal after experiencing trauma. You don't have to face this alone."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It may be helpful to speak with a therapist who specializes in trauma and can provide support and guidance on how to cope and move forward."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I never considered speaking with a therapist before."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Perhaps you can consider researching therapists in your area and making an appointment to see if it's something that could benefit you?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How have you been coping with the anxiety and feelings of being shaken up since the accident?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not very well, to be honest. I've been having nightmares and flashbacks, and just generally feeling on edge all the time."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you've been struggling quite a bit with the aftermath of the accident, experiencing nightmares and flashbacks, and feeling on edge."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly. It's been really overwhelming."
+        },
+        {
+          "speaker": "supporter",
+          "content": "What you've been experiencing is a normal reaction to trauma, and it's important to take care of yourself during this time."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered practicing relaxation techniques such as deep breathing exercises or meditation to help you manage your anxiety?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I haven't, but I'm willing to try anything at this point."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I can provide you with resources on relaxation techniques and exercises to try at home. Would that be helpful?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you noticed any triggers that seem to make your anxiety worse?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, loud noises or sudden movements can set me off."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like sudden movements or loud noises can trigger your anxiety."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing that may be helpful is to avoid situations or stimuli that trigger your anxiety as much as possible, until you feel more ready to deal with them."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea."
+        }
+      ],
+      "strategy": "Reflection of Feelings",
+      "response": "It must be really hard to feel like you're struggling alone with this, but I want you to know that you don't have to."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels alone and overwhelmed.",
+      "cause_emotion": "Because the seeker says they feel like no one truly understands what they're going through, they express a sense of loneliness in dealing with their trauma.",
+      "emotion_stimuli": "The seeker recently experienced a traumatic car accident that left them feeling shaken, anxious, and struggling to cope and move forward.",
+      "individual_appraisal": "The seeker thinks that no one truly understands what they're going through, leading them to feel alone in their experience. They haven't sought help from others because they believe no one else can relate. The seeker also feels overwhelmed by the aftermath of the accident, experiencing nightmares, flashbacks, and constantly feeling on edge.",
+      "recognized_strategy": "Reflection of Feelings",
+      "strategy_reason": "To validate and acknowledge the seeker's feelings of being alone and overwhelmed after experiencing a traumatic car accident, the supporter can use \"Reflection of Feelings\" to empathize with their emotions and provide reassurance that they don't have to face this struggle on their own."
+    }
+  },
+  {
+    "id": 873,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hello there, it's nice to connect with you today. Can you tell me more about how you're feeling?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'm feeling really lonely and isolated. I moved to this new city for work, and I'm having trouble making friends."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That can be really tough. How have you been trying to meet new people?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've tried going to some local events and joining a few groups, but nothing seems to be working. I just feel like I don't belong here."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling pretty down about this situation."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I really am. I just wish I had some friends here to hang out with and talk to."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you tried using any apps or online forums to connect with other people in your area?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I haven't, but maybe I should. I just feel weird about trying to make friends online."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I can understand why it might feel strange, but a lot of people have had success meeting new friends through these types of platforms. Maybe it's worth a shot?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I guess it couldn't hurt to try."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me about one of the groups you joined?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, I joined a book club but the people were sort of snobby and I didn't feel like I fit in."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That must have been really discouraging."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, it was. I just wish I could find a group where I feel like I really belong."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you checked out any recreational sports leagues or groups in the area? That could be a great way to meet people who share similar interests."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I haven't thought about that, but that's a good idea. I do love playing basketball."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Imagine how great it would feel to meet some new friends who also love playing basketball. You could bond over your shared passion and maybe even form a team together."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That would be amazing."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can be tough to put yourself out there and try new things, but it's important to take responsibility for your own happiness. What do you think you could do to help yourself feel more connected and fulfilled?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I think I need to be more proactive about meeting new people and not be afraid of trying different things."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So you feel like you need to be more proactive and open-minded about meeting new people, rather than just waiting for things to happen on their own."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's exactly it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's completely understandable to feel lonely and isolated in a new city, and it takes a lot of courage to put yourself out there and try new things."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I really appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you've been trying to meet new people by going to local events and joining groups, but you haven't had much luck so far. We talked about trying some online platforms, as well as checking out recreational sports leagues to meet people who share similar interests. And ultimately, you want to be more proactive and open-minded about trying new things."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's a great summary."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you can jot down some ideas of different recreational sports leagues to check out, and make a plan to try at least one in the next week or two."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea. I'll definitely do that."
+        }
+      ],
+      "strategy": "Question",
+      "response": "How does it make you feel when you think about the prospect of meeting new people?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels lonely and isolated, down, discouraged.",
+      "cause_emotion": "Because the seeker says they feel really lonely and isolated after moving to a new city for work and having trouble making friends.",
+      "emotion_stimuli": "The seeker moved to a new city for work and has been having trouble making friends.",
+      "individual_appraisal": "The seeker thinks that the lack of friends in the new city makes them feel like they don't belong. They feel discouraged by their unsuccessful attempts to meet new people through local events and groups.",
+      "recognized_strategy": "Question",
+      "strategy_reason": "To encourage self-reflection and explore the seeker's emotions and thoughts about meeting new people, the supporter can use \"Question\" to validate the seeker's feelings of loneliness and isolation. By asking how the seeker feels about the prospect of meeting new people, the supporter acknowledges the seeker's emotions and provides an opportunity for the seeker to express their thoughts and concerns."
+    }
+  },
+  {
+    "id": 1691,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi there, thank you for reaching out. Can you tell me a bit more about your situation?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Sure. I moved to a new city a few months ago for work and have been struggling to make connections with people here."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That sounds difficult. What have you tried so far to meet new people and fit in with the community?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've tried going to some local events and joining a few clubs, but it just doesn't seem like anyone is interested in getting to know me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling pretty lonely and rejected right now."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's exactly it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered joining any online groups or forums related to your interests?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I haven't thought about that. Do you think that could be helpful?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "It could definitely be worth a try. It might help you connect with others who share your interests and get some support and advice."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea, thank you."
+        }
+      ],
+      "strategy": "Question",
+      "response": "Have you also thought about volunteering for local charities or organizations?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels isolated and rejected.",
+      "cause_emotion": "Because the seeker says that since moving to a new city for work, they have been struggling to make connections with people and feel that no one is interested in getting to know them.",
+      "emotion_stimuli": "The seeker has been struggling to make connections and fit in with the community in the new city.",
+      "individual_appraisal": "The seeker thinks they are not able to form meaningful relationships and believe that others are not interested in getting to know them.",
+      "recognized_strategy": "Question",
+      "strategy_reason": "To provide the seeker with additional options for meeting new people and finding a sense of belonging, the supporter can use the strategy of asking a question. This encourages the seeker to consider volunteering for local charities or organizations, as it can provide opportunities to connect with like-minded individuals and contribute to the community."
+    }
+  },
+  {
+    "id": 808,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hello there, what brings you to me today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Hi, I am struggling with my identity, gender, or sexuality and need guidance and support to explore and accept myself."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Firstly, I want to acknowledge your courage in seeking help with your identity, gender or sexuality. It takes a lot of strength to seek help like this."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I have been finding it really difficult to deal with all the confusion and uncertainty."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me a little bit more about the challenges you've faced while exploring your identity?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, I have been feeling really confused about my gender identity and I don't know if I am male or female. I just feel lost and don't know what to do."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you give me an example of a situation where you felt confused about your gender identity?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Whenever I am in social situations and there are expectations about how a person should behave based on their gender, I feel really anxious and uncertain about how to act. I just feel out of place and like I don't belong."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you are feeling uncomfortable in social situations where gender is expected to play a role."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly! I just wish I could be myself without feeling like I'm doing something wrong."
+        }
+      ],
+      "strategy": "Providing Suggestions",
+      "response": "Have you considered counseling or therapy as a way to explore your identity further and gain more clarity?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels confused and uncertain.",
+      "cause_emotion": "Because the seeker says they are struggling with their identity, gender, or sexuality and feel confused and lost, they are looking for guidance and support to help them explore and accept themselves.",
+      "emotion_stimuli": "The seeker is struggling with their identity, gender, or sexuality and needs guidance and support to explore and accept themselves.",
+      "individual_appraisal": "The seeker thinks they feel lost and don't know what to do when it comes to their gender identity. They feel anxious and uncertain in social situations where there are expectations based on gender. They wish they could be themselves without feeling like they're doing something wrong.",
+      "recognized_strategy": "Providing Suggestions",
+      "strategy_reason": "To address the seeker's feelings of confusion and uncertainty about their gender identity, as well as their desire to be themselves without feeling like they're doing something wrong, the supporter can use \"Providing Suggestions\" to offer counseling or therapy as a potential solution for the seeker to explore their identity further and gain more clarity. This strategy aims to provide professional guidance and support to help the seeker navigate their identity journey and find the acceptance they are seeking."
+    }
+  },
+  {
+    "id": 28,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you have been through a lot recently and are struggling with post-traumatic stress disorder. That must be really tough to deal with on a daily basis."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it is very difficult and I feel like I am constantly on edge."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that you are very strong for seeking help and taking steps to manage your PTSD."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered therapy or counseling to help you manage your PTSD symptoms?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I have been going to therapy for a few weeks now but it doesn't seem to be helping much."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you talked to your therapist about trying different approaches or techniques to manage your PTSD?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, we haven't really talked about that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could ask your therapist about cognitive-behavioral therapy or mindfulness techniques, which may be helpful for managing your PTSD symptoms."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea, I will definitely ask about those."
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are also support groups specifically for individuals with PTSD where you can connect with others who have experience with what you're going through. Would you like me to help you find some resources for support groups in your area?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "That would be great, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Imagine yourself feeling calm and in control in situations that normally trigger your PTSD. What would that look like for you?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I think it would be amazing to feel in control and not let my PTSD take over. I would feel so much more free."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Try practicing self-soothing techniques, like deep breathing or visualization, whenever you feel triggered by your PTSD. See if those techniques can help you feel more in control."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Okay, I will try that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I've actually experienced PTSD myself and I know how hard it can be to manage the symptoms. But I also know that with the right support and strategies, it is possible to live a fulfilling life despite the challenges."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That makes me feel better knowing that someone else has gone through this too."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling overwhelmed and unsure about how to manage your PTSD."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's exactly how I feel. It's like it's taking over my life."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's normal to feel overwhelmed when dealing with PTSD symptoms, but it's important to remember that you are not your PTSD. You are so much more than your struggles."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good point, I need to remember that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about what triggers your PTSD symptoms?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Certain noises, smells, or even just seeing people who remind me of the traumatic event often trigger my symptoms."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So when you encounter those triggers, you notice physiological changes in your body such as increased heart rate or sweating?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly. It's like I'm right back in the traumatic moment."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That sounds really difficult, but I believe in your ability to learn ways to manage those triggers and take control of your reactions."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you for believing in me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Remember that while you cannot control the triggers that you might encounter, you can control your reactions and how you choose to respond to them. It takes practice, but it is possible."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good reminder, thank you."
+        }
+      ],
+      "strategy": "Summarize",
+      "response": "So it sounds like you're struggling with PTSD symptoms and feeling overwhelmed by triggers, but you've already taken some steps to manage it, such as going to therapy. We've also talked about some strategies such as trying different techniques in therapy, looking into support groups, and practicing self-soothing techniques."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels overwhelmed and unsure about how to manage their PTSD.",
+      "cause_emotion": "Because the seeker says they feel overwhelmed by their PTSD and that certain triggers make them feel as if they are right back in the traumatic moment, they are seeking help and exploring strategies to manage their symptoms.",
+      "emotion_stimuli": "The seeker is triggered by certain noises, smells, or reminders of the traumatic event, which often leads to physiological changes such as increased heart rate or sweating.",
+      "individual_appraisal": "The seeker thinks that their PTSD symptoms are taking over their life and they feel trapped in the traumatic moment whenever they encounter triggers.",
+      "recognized_strategy": "Summarize",
+      "strategy_reason": "To validate the seeker's feelings and provide reassurance, the supporter can use \"Summarize\" to acknowledge the overwhelming nature of the seeker's PTSD symptoms and express belief in their ability to learn ways to manage and regain control."
+    }
+  },
+  {
+    "id": 549,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi there, I'm here to listen. Can you tell me what's going on?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you for being here. I'm really struggling with financial problems and can't make ends meet. I'm worried about my future and don't know where to turn."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're dealing with a lot of financial stress and you're feeling really lost."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly. I'm just not sure what to do or where to turn."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered talking to a financial advisor? They might be able to help give you some direction and advice on how to manage your finances."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea. I hadn't thought of that before."
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are also some really great resources online that can help with financial planning. I can send you some links if you're interested."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, please. That would be helpful."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that I think you're really intelligent and capable. You can get through this, and I'm here to help in any way I can."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you so much. That means a lot to me."
+        }
+      ],
+      "strategy": "Specify",
+      "response": "Are there any specific areas of your finances that are causing the most stress?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels lost, worried about their future, and unsure about what to do.",
+      "cause_emotion": "Because the seeker says they are really struggling with financial problems and are worried about their future, they feel lost and unsure about what to do.",
+      "emotion_stimuli": "The seeker is struggling with financial problems and feels unable to make ends meet.",
+      "individual_appraisal": "The seeker thinks they have limited options and are in need of guidance and support in managing their finances.",
+      "recognized_strategy": "Specify",
+      "strategy_reason": "To address the seeker's feelings of being lost and worried about their future, as well as their struggle to make ends meet, the supporter can use the strategy of \"Specify\" to gather more specific information about the areas of the seeker's finances that are causing the most stress. By gaining a better understanding of the seeker's financial concerns, the supporter can provide more targeted advice and support, helping the seeker feel heard and understood in their current situation."
+    }
+  },
+  {
+    "id": 432,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hello there, it's good to talk with you today. You mentioned that you're experiencing a conflict or crisis in your personal or professional relationships- can you tell me more about that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Sure. Basically, I'm having a lot of trouble communicating with my partner lately. We keep getting into arguments and it seems like neither of us is really listening to the other person."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling really frustrated and unheard in your relationship."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, that's definitely how I've been feeling."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I'm feeling concerned for you and the situation. I'm also feeling hopeful that we can work together to find some solutions."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thanks, I really appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you give me an example of a recent argument you had with your partner?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Sure, we were arguing about household chores and it just escalated from there."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like there was an argument about household chores that turned into something bigger. Is that correct?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you give me more detail about what specifically was said during the argument and how it made you feel?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "My partner said some hurtful things and I felt unvalued and ignored."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it seems like during that argument, your partner said some things that hurt you and made you feel like you weren't being heard or valued. Is that accurate?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like your partner wasn't listening to your concerns or needs. Do you think that's accurate?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I feel like they don't really listen to me anymore."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing you could try is setting aside some specific time to talk and really listen to each other without any distractions or interruptions. What do you think about that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea- we don't really do that enough anymore."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you commit to having a dedicated conversation with your partner soon?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I can do that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Another thing you might want to consider is looking into couples therapy or relationship counseling. Would you be interested in that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'm not sure- I've never done that before."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Just imagine for a moment what it would be like to have better communication and a stronger, more fulfilling relationship. How does that feel to you?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "It feels really good. It's something I want."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's great that you're open to making things work and willing to put in the effort to improve your relationship. I think that's a really positive step."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, that means a lot."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I've been through some tough times in my own relationships in the past, so I can relate to how you're feeling. But I also know that with the right mindset and strategies in place, it's possible to work through things and emerge even stronger on the other side."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's really comforting to hear. Thank you for sharing."
+        }
+      ],
+      "strategy": "Restatement or Paraphrasing",
+      "response": "Just to make sure I understand- it sounds like you're feeling frustrated and hurt in your relationship, but you're also willing to work on it and make things better. Is that accurate?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels frustrated and hurt in their relationship.",
+      "cause_emotion": "Because the seeker says they are having trouble communicating with their partner and feel unvalued and ignored during arguments, they express a desire to work on their relationship and improve their situation.",
+      "emotion_stimuli": "The seeker is experiencing conflicts and arguments with their partner and feeling unheard and unvalued.",
+      "individual_appraisal": "The seeker thinks their partner's hurtful words during arguments made them feel unvalued and ignored. They also believe that their partner is not listening to their concerns or needs anymore.",
+      "recognized_strategy": "Restatement or Paraphrasing",
+      "strategy_reason": "To validate the seeker's emotions of frustration and hurt in their relationship, as well as their willingness to work on it and make things better, the supporter can use \"Restatement or Paraphrasing\" to acknowledge and reflect the seeker's feelings and aspirations."
+    }
+  },
+  {
+    "id": 1000,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi, how are you today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, I'm not doing so great. I have a chronic pain condition that requires medication management, but I'm struggling with addiction to pain medication."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you have a chronic pain condition that requires medication, but you're struggling with addiction to pain medication."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's right. I don't know what to do anymore."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling lost and overwhelmed about your addiction."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's exactly it. I feel like I'm at the end of my rope with this."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It takes a lot of courage to admit that you're struggling, and I want you to know that I'm here for you and that you're not alone."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I really appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about what's been going on for you lately?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've been taking more medication than I should, and I can feel myself spiraling out of control. I don't know how to stop."
+        }
+      ],
+      "strategy": "Restatement or Paraphrasing",
+      "response": "So you've been taking more medication than you should, and you're worried that you're losing control."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels lost, overwhelmed, and at the end of their rope.",
+      "cause_emotion": "Because the seeker says they have been taking more medication than they should and feel themselves spiraling out of control, they express that they don't know how to stop.",
+      "emotion_stimuli": "The seeker is struggling with addiction to pain medication and feels like they are spiraling out of control.",
+      "individual_appraisal": "The seeker thinks they don't know what to do anymore and feels like they have reached a breaking point.",
+      "recognized_strategy": "Restatement or Paraphrasing",
+      "strategy_reason": "To acknowledge and validate the seeker's emotions, the supporter can use \"Restatement or Paraphrasing\" to show empathy and understanding."
+    }
+  },
+  {
+    "id": 927,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "seeker",
+          "content": "I am a caregiver for a family member who has a chronic illness or disabilities, and I am struggling to balance their care with my own needs and responsibilities."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I understand that you are going through a very tough time, and it's not easy to balance the needs of your loved one and your own responsibilities. How have you been coping?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "To be honest, it's been really challenging. I feel exhausted all the time and there just isn't enough time to get everything done."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's totally understandable to feel overwhelmed in your situation. Have you considered reaching out to any support groups or organizations for caregivers?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I haven't. I'm not really sure where to start."
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are many organizations that offer support for caregivers. One great resource is the National Alliance for Caregiving. They provide information, resources, and support for caregivers just like you."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. I will definitely look into that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I can imagine how difficult it must be to juggle all the responsibilities of caregiving. It sounds like you could use some more support."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's exactly how I feel. I don't want to burden others, but I don't know how to do this on my own."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It takes a lot of strength and courage to be a caregiver, and you are doing the best you can. You are not alone in this."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. That means a lot to me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about the specific challenges you are facing right now with caregiving?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, my loved one has a lot of medical appointments, and it takes up a lot of my time. On top of that, I have my own job and family responsibilities to take care of."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you are feeling stretched thin with all the demands on your time and energy. Is that accurate?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it is."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing that may be helpful is to try and delegate some of the responsibilities to others. Are there any family members or friends who can help with the appointments or other tasks?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really. Most of my family lives far away, and my friends are busy with their own lives."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you think of anyone who might be willing to help, even if it's just for a short time?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'll have to think about it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I can see that this is really weighing on you, and I want you to know that I'm here to support you in any way I can."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. That means a lot."
+        },
+        {
+          "speaker": "supporter",
+          "content": "If you could visualize yourself having a little bit more time and energy, what would that look like for you?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, just being able to take a little bit of time for myself each day would make a big difference."
+        }
+      ],
+      "strategy": "Homework Assignments",
+      "response": "I would like to challenge you to take at least 15 minutes each day to do something that you enjoy, whether it's reading a book, taking a walk, or anything else that brings you joy."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels overwhelmed, stretched thin, and exhausted.",
+      "cause_emotion": "Because the seeker says that they are a caregiver for a family member with a chronic illness and that they struggle to balance caregiving with their own needs and responsibilities, they feel overwhelmed and exhausted.",
+      "emotion_stimuli": "The seeker's caregiving duties for a family member with chronic illness or disabilities, along with their own job and family responsibilities.",
+      "individual_appraisal": "The seeker thinks that they are constantly running out of time and energy due to the demanding nature of caregiving and their other responsibilities. They feel like there is not enough support available and they are unsure of how to ask for help. Despite feeling burdened, they recognize the importance of taking care of themselves and acknowledge that even a small amount of personal time each day would greatly benefit their well-being.",
+      "recognized_strategy": "Homework Assignments",
+      "strategy_reason": "To address the seeker's feelings of being overwhelmed, stretched thin, and exhausted, the supporter can use the strategy of \"Homework Assignments\" to encourage the seeker to prioritize self-care and find small moments of joy and respite in their daily life. By suggesting that the seeker take at least 15 minutes each day to engage in an activity they enjoy, such as reading a book or taking a walk, the supporter acknowledges the importance of self-care and offers a practical solution to help alleviate some of the emotional and physical strain caused by caregiving and other responsibilities. This strategy helps the seeker recognize the value of setting aside personal time and emphasizes the need for balance and self-preservation."
+    }
+  },
+  {
+    "id": 258,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi, thanks for reaching out. Can you tell me a little about what's been going on for you lately?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, I've been struggling a lot lately with the aftermath of a traumatic experience."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That sounds really tough. It's okay to feel overwhelmed and upset after going through something traumatic like that."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, it means a lot to hear you say that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered seeing a therapist or counselor to talk through some of these feelings?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I have, but I'm not sure if it's the right thing for me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can be hard to know what the right thing to do is in situations like this, but I've seen therapy help a lot of people work through their traumas and heal."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'll definitely think about it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about the specific effects this traumatic experience has had on your mental and emotional wellbeing?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've been having really intense anxiety and panic attacks, and I can't seem to get past the feelings of sadness and hopelessness."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're really struggling to manage your emotions right now. That must be really hard."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it feels like these feelings are taking over my life."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it seems like these emotions are really weighing heavily on you, and you're feeling like you can't move forward."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's exactly it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing that might be helpful is finding ways to ground yourself when you start to feel overwhelmed or anxious. Have you tried any mindfulness or relaxation techniques?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I haven't. Can you give me some examples?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "Sure, there are a lot of different things you can try from deep breathing exercises to guided meditations."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That sounds like it could be helpful."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could try doing a guided meditation or deep breathing exercise once a day and see if it helps you manage your anxiety."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'll definitely give it a try."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's important to remember that healing from a traumatic experience is a process, and it can take a long time. It's okay to take things one day at a time and be patient with yourself."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I needed to hear that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I've personally gone through some tough times myself, and I know how difficult it can be to work through these things. But I also know how important it is to keep fighting and to keep trying."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's really helpful to hear, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you spoken to anyone close to you about what you're going through?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really, I don't want to burden anyone with my problems."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can be hard to talk about these things, especially with people we care about. But having support from others can be really helpful in the healing process."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I guess that's true. I just don't know who to talk to."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could try talking to a close friend or family member who you trust. Or there are support groups or helplines you can call if you need to talk to someone anonymously."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'll think about it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Just remember that you're strong and capable, and you will get through this. It may not be easy, but you're not alone."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, that means a lot."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about what has been triggering your anxiety and panic attacks?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "It's been different things, but usually it's certain smells or sounds that remind me of what happened."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could try creating a \"safe space\" for yourself where you can go when you start to feel triggered. This could be somewhere quiet where you can practice relaxation techniques or remind yourself of positive things."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea, I'll try that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's also important to make sure you're taking care of yourself physically as well as emotionally. Are you getting enough rest and exercise, and eating well?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really, I've been struggling with those things too."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could try setting small goals for yourself each day to take care of your physical health. Like going for a short walk, or focusing on eating one healthy meal a day."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That sounds manageable, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you've been going through a really difficult time after a traumatic experience, and you've been struggling with anxiety and panic attacks. We talked about some ways to manage these feelings, including mindfulness techniques, seeking support, and taking care of yourself physically. Is there anything else you wanted to talk about today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I think that's it for now. Thank you so much for your help and support."
+        }
+      ],
+      "strategy": "Affirmation and Reassurance",
+      "response": "You're welcome, and remember that I'm here to support you whenever you need it."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels overwhelmed, anxious, and hopeless.",
+      "cause_emotion": "Because the seeker says they have been struggling a lot with the aftermath of a traumatic experience, they feel overwhelmed and anxious as these feelings seem to be taking over their life.",
+      "emotion_stimuli": "The seeker has been struggling with the aftermath of a traumatic experience, intense anxiety, and panic attacks. Certain smells or sounds trigger these emotions.",
+      "individual_appraisal": "The seeker thinks they are unable to manage their emotions and feels like these feelings are taking over their life.",
+      "recognized_strategy": "Affirmation and Reassurance",
+      "strategy_reason": "To provide emotional support and reassurance to the seeker who is feeling overwhelmed, anxious, and hopeless after a traumatic experience and intense anxiety and panic attacks, the supporter can use the strategy of \"Affirmation and Reassurance\" to acknowledge and validate the seeker's feelings."
+    }
+  },
+  {
+    "id": 987,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi there. I'm here to provide support. What's on your mind today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Hi. I recently lost my job and I'm really stressed about how I'm going to make ends meet."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I'm really sorry to hear that. I went through something similar a while back and it was really tough. I know how you feel."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that you're really strong for reaching out for help. It takes a lot of courage to admit when things are tough."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about your situation? What kind of job did you lose?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I was working at a restaurant, but it shut down because of the pandemic. I wasn't able to find another job before my savings started running out."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So you lost your job because of the pandemic and haven't been able to find work since. Is that right?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's exactly it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That's a really tough situation to be in, but I want you to know that you're not alone. A lot of people are struggling right now and there are resources available to help you."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I hope so."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you looked into unemployment benefits or other forms of financial assistance?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I've applied for unemployment, but it hasn't come through yet. I'm not sure what else is out there."
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are a lot of organizations that can provide assistance with bills, groceries, and other essential expenses. I can send you some links and phone numbers if you're interested."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That would be really helpful. Thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How are you feeling about your situation right now?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, I'm really scared. I don't know how I'm going to make rent this month."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling really overwhelmed and anxious about the future. Is that right?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So you're feeling scared and anxious about not being able to make ends meet."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I want you to know that it's okay to feel scared. But I also want you to know that you're capable of making it through this tough time."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I don't feel very capable right now."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So you're feeling a bit hopeless at the moment."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes."
+        },
+        {
+          "speaker": "supporter",
+          "content": "From what you've told me, it sounds like you're really focused on the negative right now. That's completely understandable given your situation, but it might be helpful to try and focus on the positives as well."
+        },
+        {
+          "speaker": "seeker",
+          "content": "What positives? I don't have a job and I can't pay my bills."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you think of any small wins or accomplishments that you've had recently? Even something as simple as making a good meal or taking a walk."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I guess I did manage to apply for unemployment. And I've been walking a lot to clear my head."
+        }
+      ],
+      "strategy": "Affirmation and Reassurance",
+      "response": "That's great! Those are really important things. You're taking steps to get the help you need and taking care of your physical health."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels stressed, overwhelmed, scared, anxious, and hopeless.",
+      "cause_emotion": "Because the seeker says that they recently lost their job and are really stressed about how they are going to make ends meet, they feel overwhelmed and anxious about their financial situation.",
+      "emotion_stimuli": "The seeker recently lost their job due to the pandemic and is struggling to make ends meet. They haven't been able to find work, their unemployment benefits haven't come through, and they're unsure about available financial assistance.",
+      "individual_appraisal": "The seeker thinks that their financial situation is dire and uncertain, causing them to feel scared and overwhelmed. They don't feel capable of overcoming these challenges and are focusing on the negatives. They also feel hopeless and unable to see any positives in their current circumstances.",
+      "recognized_strategy": "Affirmation and Reassurance",
+      "strategy_reason": "To address the seeker's feelings of stress, overwhelm, fear, anxiety, and hopelessness caused by their recent job loss and financial struggles, the supporter can use the strategy of \"Affirmation and Reassurance\" to validate their emotions and provide reassurance. By acknowledging the seeker's difficult situation and expressing empathy, the supporter aims to create a safe and supportive space for the seeker to share their concerns."
+    }
+  },
+  {
+    "id": 220,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi there, can you tell me what’s been on your mind lately?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, I’ve been feeling really anxious and depressed lately. I just can’t shake this feeling of dread."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you’re going through a really tough time."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, it’s been pretty overwhelming."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you been able to identify any triggers for your anxiety and depression?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really. It feels like everything sets it off these days."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It might be helpful to start keeping a journal of what’s happening when you feel anxious or depressed. That way, you can start to pick up on patterns and identify any possible triggers."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That’s a good idea. I’ll give it a try."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Did you know that there are some really effective coping mechanisms for anxiety and depression?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I didn’t. Can you tell me more about them?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "One thing that might be helpful is practicing mindfulness. It can help you focus on the present moment and reduce feelings of anxiety."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That sounds interesting. How do I practice mindfulness?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are a lot of ways to practice mindfulness, but one common way is to start with deep breathing exercises. You can also try paying attention to your senses, like what you see, hear, taste, touch, and smell in the present moment."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Okay, I’ll try that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How are you feeling about trying some of these coping mechanisms?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Honestly, I’m a bit skeptical. I don’t know if it will work for me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That’s okay. It’s normal to feel skeptical about new things. But remember, you have the power to work through your anxiety and depression, and there are a lot of effective strategies out there."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you for saying that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It’s important to remember that we all have a responsibility to take care of our own mental health. What are some things you can do to take care of yourself?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I’m not really sure. I’ve been struggling to do anything lately."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you tried breaking things down into smaller, more manageable tasks?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "No, I haven’t."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Try making a list of small tasks you can do each day to take care of yourself. It could be as simple as taking a walk or calling a friend."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Okay, I’ll give it a try."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It seems like you’re really down on yourself right now. Is that accurate?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, I’ve been feeling pretty worthless lately."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you’re really struggling with your sense of self-worth right now."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, I just don’t know if I’m capable of anything anymore."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That’s not true. You’re capable of so much, and there are people who care about you. Remember, you’re not alone."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you for saying that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you imagine what your life might look like if you were able to overcome this anxiety and depression?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I guess I haven’t really thought about it."
+        }
+      ],
+      "strategy": "Imagery",
+      "response": "Take a moment to picture a future where you feel happy and fulfilled. What do you see?"
+    },
+    "cot_data": {
+      "emotion": "The seeker feels anxious and depressed.",
+      "cause_emotion": "Because the seeker says they feel overwhelmed and worthless, they express skepticism about whether they are capable of improving their situation.",
+      "emotion_stimuli": "The seeker is experiencing a feeling of dread and everything seems to set off their anxiety and depression.",
+      "individual_appraisal": "The seeker thinks they are overwhelmed and unable to identify triggers for their anxiety and depression. They are open to trying coping mechanisms but feel skeptical about their effectiveness. The seeker also feels down on themselves, questioning their own self-worth and capabilities.",
+      "recognized_strategy": "Imagery",
+      "strategy_reason": "To address the seeker's feelings of anxiety and depression, as well as their sense of being overwhelmed and their skepticism towards coping mechanisms, the supporter can use the strategy of \"Imagery\" to prompt the seeker to envision a future where they feel happy and fulfilled. This strategy aims to inspire hope and motivation by encouraging the seeker to visualize a more positive outcome, helping to counteract their current negative emotions and stimulate a shift in their perspective."
+    }
+  },
+  {
+    "id": 1327,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "seeker",
+          "content": "I am really struggling. My family is going through a tough time and I don't know how to support them while also managing my own feelings."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That sounds really tough. I'm here to listen and support you in any way I can."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. It's just hard because I feel like I'm always the one who has to hold everything together."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you're feeling overwhelmed with the responsibility of supporting your family through this difficult time."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly. It's just a lot to handle."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can feel really heavy to be the primary support for your family, especially during tough times."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I just wish I knew how to make things better for them."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you considered sitting down with your family and having an open and honest conversation about how you're feeling and how you can all support each other during this time?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's a good idea. I just worry about making things worse by bringing it up."
+        }
+      ],
+      "strategy": "Information",
+      "response": "Research has shown that addressing the elephant in the room can actually bring people closer together and foster deeper connections. It could be worth taking that risk."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels overwhelmed and burdened.",
+      "cause_emotion": "Because the seeker says they are struggling and feel overwhelmed by the responsibility of supporting their family during a tough time.",
+      "emotion_stimuli": "The seeker's family is going through a tough time.",
+      "individual_appraisal": "The seeker thinks they have the sole responsibility of holding everything together for their family.",
+      "recognized_strategy": "Information",
+      "strategy_reason": "To provide the seeker with helpful information, the supporter can use \"Information\" to introduce considering an open and honest conversation with their family."
+    }
+  },
+  {
+    "id": 180,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "seeker",
+          "content": "Hi, thanks for doing this. I'm really struggling right now. My grades aren't where I want them to be and I feel so overwhelmed with everything."
+        },
+        {
+          "speaker": "supporter",
+          "content": "What do you think might be causing you to feel overwhelmed?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "It's just that there's so much to do and not enough time to do it all. And I'm constantly worried about failing."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're feeling a lot of pressure to perform well and that's causing you to feel overwhelmed."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "You've got this. You're capable of achieving great things, and I know you'll figure out a way to make it all work."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. That means a lot."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you tried breaking down your tasks into more manageable chunks?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I have, but it still feels like there's not enough time."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you've tried to divide your work, but it's still not helping you feel less overwhelmed."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One idea might be to prioritize your tasks and focus on the ones that are most important first. That way, you'll feel more in control and less stressed."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That makes sense."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like you're willing to try new things to help manage your stress levels."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yeah, I am."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Are there any extracurricular activities or commitments that you might be able to take a break from to free up more time for studying?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, I guess I could take a break from playing video games and watching Netflix."
+        },
+        {
+          "speaker": "supporter",
+          "content": "That's a great idea. Maybe you can reward yourself with those activities once you've finished studying for the day."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I like that idea."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I just want you to know that I really care about you and I'm here to support you in any way I can."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you're feeling overwhelmed with your workload and you're willing to try new strategies, like prioritizing tasks and taking a break from certain activities, to help manage your stress levels. You also appreciate my support during this difficult time."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's about right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's possible that there might be some deeper underlying issues that are contributing to your stress levels. Have you considered talking to a counselor or therapist about what you're going through?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I haven't, but I'm open to the idea."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Imagine how much better you could feel if you had some additional support to help you cope with your stress levels."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That sounds great."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Here's a resource that might be helpful - there are some free counseling services offered through the school that you attend."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you. I'll look into that."
+        }
+      ],
+      "strategy": "Self-disclosure",
+      "response": "I had a similar experience when I was a student, and talking to a therapist really helped me work through my stress and anxiety."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels overwhelmed and stressed.",
+      "cause_emotion": "Because the seeker says they are really struggling right now, feeling overwhelmed with their workload and worried about failing, they express concern that there is too much to do and not enough time to complete it all.",
+      "emotion_stimuli": "The seeker is struggling with their grades and feeling overwhelmed with their workload.",
+      "individual_appraisal": "The seeker thinks that there is too much to do and not enough time to do it all. They also have a constant fear of failure. Additionally, the seeker believes that prioritizing tasks and taking a break from extracurricular activities might help to alleviate their stress.",
+      "recognized_strategy": "Self-disclosure",
+      "strategy_reason": "To establish rapport and empathy with the seeker, the supporter can use \"Self-disclosure\" to indicate that they have had a similar experience in the past, which allows the supporter to connect with the seeker's feelings of being overwhelmed and stressed in relation to their workload and grades."
+    }
+  },
+  {
+    "id": 100,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hi there, what brings you to me today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Hi, my partner and I have been having communication issues and it's starting to affect our relationship. We're struggling to find a way to communicate effectively."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's really brave of you to seek help for this. It can be very difficult to navigate communication issues in a relationship."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, it's definitely been a challenge."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you give me an example of a recent communication issue?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Sure, last night we had plans to go out with friends and I assumed my partner knew what time we were supposed to meet. When he was running late, I got upset and accused him of not caring about our plans."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like you got upset because your partner didn't know what time you were supposed to meet your friends, and you assumed he knew?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Right, and I know that wasn't fair of me to assume."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's okay to make assumptions sometimes. It's great that you recognize it wasn't fair and are willing to work on it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One suggestion for effective communication could be to check in with each other ahead of plans to confirm details. Would you be open to trying that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that sounds like it could be helpful."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you think of any other examples of communication issues that have come up?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "We often have trouble listening to each other without interrupting or getting defensive."
+        },
+        {
+          "speaker": "supporter",
+          "content": "One activity you could try is taking turns listening without interrupting and then reflecting back what was said. This can help build empathy and understanding. Would you be willing to try that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I think that could be helpful."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like one of your main challenges is interrupting each other during conversations?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's right."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Interrupting is a common communication issue that many couples face. One helpful strategy is to use \"I\" statements instead of \"you\" statements to express your feelings without blaming the other person."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's good to know. I'll try to keep that in mind."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you think of a time when you felt like your partner really listened to you and validated your feelings?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I remember when I told him about a work issue and he asked me follow-up questions and really seemed to understand how much it was stressing me out."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It must have felt really good to have your partner listen and understand you in that moment."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it did. I wish we could communicate like that more often."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It sounds like deep down you really value feeling heard and understood by your partner."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, definitely."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it seems like listening without interrupting and finding ways to empathize with each other's feelings are key for improving communication in your relationship. Is that accurate?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, that's a good summary."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you tell me more about how you feel when your partner interrupts you during conversations?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "It can be frustrating and it feels like he's not really listening to me."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How do you think your partner feels when you interrupt him during conversations?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'm not sure, probably the same way I feel."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It's great that you're willing to recognize how your own behavior might be contributing to the communication issues. Taking responsibility for our actions is an important step towards positive change."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I'm trying to be more mindful of it."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I can relate to that. I used to interrupt my partner a lot until we found strategies to improve our communication."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That's good to hear. Did those strategies make a big difference?"
+        },
+        {
+          "speaker": "supporter",
+          "content": "Definitely. It took some work, but we were able to build a stronger and more open relationship as a result."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Another activity you could try is practicing open and honest communication with each other by sharing one thing you appreciate about each other every day. Would you be open to trying that?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, I like that idea. It could help us focus on the positives."
+        }
+      ],
+      "strategy": "Immediacy",
+      "response": "I just want to say that I really appreciate the vulnerability and openness you've shown in sharing your struggles with me. It takes a lot of courage to ask for help."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels frustrated and unheard.",
+      "cause_emotion": "Because the seeker says they have been having communication issues with their partner, they feel frustrated while struggling to be effectively heard in their relationship.",
+      "emotion_stimuli": "The seeker has been experiencing difficulties in communication with their partner, leading to frustration and a sense of being unheard.",
+      "individual_appraisal": "The seeker thinks that their efforts to communicate effectively have been unsuccessful, leading to frustration and a belief that their voice is not being heard in the relationship.",
+      "recognized_strategy": "Immediacy",
+      "strategy_reason": "To acknowledge and validate the seeker's emotions of feeling frustrated and unheard due to their partner's interrupting behavior during conversations, the supporter can use \"Immediacy\" to express appreciation for the seeker's vulnerability and openness in sharing their struggles. This strategy aims to provide reassurance and reinforce the seeker's courage in seeking help, which can help build trust and create a supportive environment for further communication improvement."
+    }
+  },
+  {
+    "id": 129,
+    "original_data": {
+      "dialog": [
+        {
+          "speaker": "supporter",
+          "content": "Hello, how can I help you today?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Hi, thank you for talking to me. I'm having some relationship problems with my partner."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Could you tell me a little more about the issues you're experiencing?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Sure, my partner and I are constantly arguing and I don't know how to communicate effectively to fix our relationship."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you give me a specific example of one of your arguments?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Well, the other day we were talking about moving in together and it turned into a huge fight about finances."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it sounds like an argument around finances sparked the latest disagreement."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it was really frustrating because we were both just misunderstanding each other."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It seems like there's been a breakdown in communication, leading to conflicts about your finances and other topics."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, exactly."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Have you tried any specific strategies to improve your communication?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "Not really, I just feel like we're not listening to each other."
+        },
+        {
+          "speaker": "supporter",
+          "content": "How about practicing active listening? You could try repeating what your partner says to make sure you understand where they're coming from, and they could do the same for you."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That sounds like a good idea, I'll try that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can be really frustrating to feel like you're not being heard by someone you care about."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, it's been weighing on me a lot."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Even though things are tough right now, remember that you both care about each other and want to work things out."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Thank you, I really appreciate that."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Maybe you could both also try setting aside some time to discuss difficult topics when you're both feeling calm and centered."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That could work, I'll bring that up to my partner."
+        },
+        {
+          "speaker": "supporter",
+          "content": "I'm really invested in your progress and want to see you both happy."
+        },
+        {
+          "speaker": "seeker",
+          "content": "That means a lot to me, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "There are also resources like couples therapy that could help you both work on your communication skills."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I'll keep that in mind, thank you."
+        },
+        {
+          "speaker": "supporter",
+          "content": "It can be hard to see things from another's perspective, especially when emotions are running high. It's okay to take some space and come back to a topic when you're both feeling more level-headed."
+        },
+        {
+          "speaker": "seeker",
+          "content": "I agree, that could be helpful."
+        },
+        {
+          "speaker": "supporter",
+          "content": "Can you visualize a specific outcome for your relationship that you would like to see?"
+        },
+        {
+          "speaker": "seeker",
+          "content": "I would like to see us being able to talk to each other calmly and respectfully, without things escalating into an argument."
+        },
+        {
+          "speaker": "supporter",
+          "content": "So it seems like you would like to create more peace and mutual understanding in your relationship."
+        },
+        {
+          "speaker": "seeker",
+          "content": "Yes, definitely."
+        }
+      ],
+      "strategy": "Take Responsibility",
+      "response": "It's important to remember that both partners are responsible for maintaining a healthy relationship, and communication is a key part of that."
+    },
+    "cot_data": {
+      "emotion": "The seeker feels frustrated, overwhelmed, and misunderstood.",
+      "cause_emotion": "Because the seeker says they are having relationship problems with their partner, feeling frustrated by the constant arguing and the breakdown in communication, they believe that both partners need to take responsibility for resolving these issues.",
+      "emotion_stimuli": "The seeker's relationship issues, constant arguing, and ineffective communication.",
+      "individual_appraisal": "The seeker thinks that the arguments are a result of misunderstandings and a breakdown in communication. They feel frustrated because they don't know how to effectively resolve the issues in their relationship. The seeker feels overwhelmed by the constant arguing and it weighs on them heavily. They acknowledge that both partners are responsible for maintaining a healthy relationship but feel unsure about how to improve the situation.",
+      "recognized_strategy": "Take Responsibility",
+      "strategy_reason": "To acknowledge and validate the seeker's feelings of frustration, overwhelm, and misunderstanding in their relationship, the supporter can use the strategy of \"Take Responsibility\" to emphasize the importance of both partners actively working towards maintaining a healthy relationship. By encouraging the seeker to recognize their own role in the communication breakdown, the supporter aims to empower them to take ownership of their actions and contribute to positive change in the relationship."
+    }
+  }
+]
